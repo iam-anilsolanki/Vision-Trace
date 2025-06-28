@@ -7,3 +7,4 @@ torchreid
 scikit-learn
 Pillow
 gdown
+tensorboard
