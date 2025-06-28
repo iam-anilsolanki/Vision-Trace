@@ -1,0 +1,8 @@
+opencv-python-headless
+torch
+torchvision
+ultralytics
+torchreid
+scikit-learn
+streamlit
+Pillow
